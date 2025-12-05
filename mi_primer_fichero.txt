@@ -1,1 +1,2 @@
 Este es mi primer fichero.
+--- Modificación: ¡Esto es el postre!
